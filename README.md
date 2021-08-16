@@ -32,8 +32,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ## 🚀 Getting Started
 
+- Configure a URI do seu banco MongoDB na variável de ambiente ```MONGO_URI``` no arquivo ```.env```.
 - Configure a porta que o seu servidor utilizará informando-a em uma variável de ambiente ```PORT``` no arquivo ```.env```.
-- Rode os seguintes comandos no terminal para iniciar o server:
+- Rode os seguintes comandos no terminal para iniciar o server (Certifique-se que seu banco de dados está online):
 
 ```
 # for npm users
