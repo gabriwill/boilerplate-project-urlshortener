@@ -22,6 +22,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Express](https://expressjs.com/)
 - [CORS](https://www.npmjs.com/package/cors)
 - [dotenv](https://www.npmjs.com/package/dotenv)
+- [body-parser](https://www.npmjs.com/package/body-parser)
 - [mongodb](https://www.npmjs.com/package/mongodb)
 - [mongoose](https://www.npmjs.com/package/mongoose)
 
